@@ -1,0 +1,37 @@
+git init - The git init command creates a new Git repository. It can be used to convert an existing, unversioned project to a Git repository or initialize a new, empty repository.
+
+git add -  The git add command adds a change in the working directory to the staging area. It tells Git that you want to include updates to a particular file in the next commit.
+
+git commit - It is used to record the changes in the repository. 
+
+git status - The git status command displays the state of the working directory and the staging area. It lets you see which changes have been staged, which haven't, and which files aren't being tracked by Git.
+
+git remote - The git remote command lets you create, view, and delete connections to other repositories.
+
+git merge - Merging is Git's way of putting a forked history back together again. The git merge command lets you take the independent lines of development created by git branch and integrate them into a single branch.
+
+git rebase - Rebasing is the process of moving or combining a sequence of commits to a new base commit
+
+git fetch - git fetch is a primary command used to download contents from a remote repository
+
+git pull - The git pull command is used to fetch and download content from a remote repository and immediately update the local repository to match that content
+
+git push - The git push command is used to upload local repository content to a remote repository.
+
+git clone - git clone is primarily used to point to an existing repo and make a clone or copy of that repo at in a new directory, at another location
+
+git branch - The git branch command lets you create, list, rename, and delete branches. It doesn't let you switch between branches or put a forked history back together again
+
+git checkout - The git checkout command lets you navigate between the branches created by git branch
+
+git log - Git log command allows viewing your git log as a graph. To list the commits in the form of a graph, run the git log command with --graph option
+
+git stash - Use git stash when you want to record the current state of the working directory and the index, but want to go back to a clean working directory
+
+git revert - The git revert command is a forward-moving undo operation that offers a safe method of undoing changes
+
+git diff - Diffing is a function that takes two input data sets and outputs the changes between them
+
+git reset - git reset is a powerful command that is used to undo local changes to the state of a Git repo. Git reset operates on "The Three Trees of Git". These trees are the Commit History ( HEAD ), the Staging Index, and the Working Directory. There are three command line options that correspond to the three trees.
+
+
